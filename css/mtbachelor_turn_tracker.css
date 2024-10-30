@@ -1,0 +1,22 @@
+.bachelor{
+border-collapse:collapse;
+/*border-collapse:separate;*/
+border-spacing:10px 10px;
+	
+font-size: 12px;
+}
+
+#currentday{
+	min-width:50%;
+	min-height:300px;
+	padding: 44px;
+}
+
+.fancybox-close-small, .fancybox-close-small:hover{
+	background: transparent!important;
+}
+
+.mt-icon{
+	width:45px;
+	padding:5px;
+}
